@@ -1,2 +1,5 @@
-Kevin Otsuka - лошара
-Лол
+<html>
+<head>
+<title>Кевин отсука лох</title>
+</head>
+</html>
